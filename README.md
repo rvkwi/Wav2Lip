@@ -1,3 +1,7 @@
+Updated fork to work with python3.11 venv --rvkwi
+
+---
+
 # **Wav2Lip**: *Accurately Lip-syncing Videos In The Wild* 
 
 ### Wav2Lip is hosted for free at [Sync Labs](https://synclabs.so/)
